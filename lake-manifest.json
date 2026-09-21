@@ -3,4 +3,9 @@
  "packages": [],
  "name": "IntroductionToLean",
  "lakeDir": ".lake",
+ "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
  "fixedToolchain": false}
