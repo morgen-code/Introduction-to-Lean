@@ -1,0 +1,10 @@
+name = "IntroductionToLean"
+version = "0.1.0"
+defaultTargets = ["introductiontolean"]
+
+[[lean_lib]]
+name = "IntroductionToLean"
+
+[[lean_exe]]
+name = "introductiontolean"
+root = "Main"
